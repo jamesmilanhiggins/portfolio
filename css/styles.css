@@ -1,3 +1,7 @@
+body {
+  background-color: #c0b283;
+}
+
 h1  {
   text-align: center;
 }
@@ -9,6 +13,14 @@ h1  {
 .homebutton {
   font-size: 24px;
 }
+
+p.aboutme {
+  text-transform:full-width;
+  text-align: center;
+  font-size: 28px;
+}
+
+
 .main_img {
   float: left;
   border: 2px;
@@ -45,6 +57,7 @@ h1  {
 
 }
 .container1 {
+  border: 20px;
   margin: 20px;
   text-align: center;
 }
@@ -63,10 +76,10 @@ h1  {
 }
 
 .h3home {
-  background-color: green;
+  background-color: #dcd0c0;
 }
 .phome {
-  background-color: darkgrey;
+  background-color: lightblue;
 }
 .projects {
   font-weight: bold;
@@ -84,4 +97,7 @@ h1  {
 h1 {
   background-color: lightgrey;
   border-radius: 10%;
+}
+.footer1 {
+  text-align: center;
 }

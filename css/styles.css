@@ -2,9 +2,11 @@ body {
   background-color: #c0b283;
 }
 
-h1  {
+h1 , h2 {
   text-align: center;
 }
+
+
 
 .main {
   text-align: center;
@@ -19,9 +21,10 @@ h1  {
 }
 
 p.aboutme {
-  text-transform:full-width;
+  background-color: lightblue;
   text-align: center;
   font-size: 28px;
+  padding-left: 30%;
 }
 
 .main_img {
@@ -46,6 +49,10 @@ p.aboutme {
   margin-right: 1%;
 }
 
+.h1int {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
 .sidebar2 {
   float: left;

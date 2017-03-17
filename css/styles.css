@@ -8,6 +8,10 @@ h1  {
 
 .main {
   text-align: center;
+  background-color: lightblue;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .homebutton {
@@ -20,27 +24,29 @@ p.aboutme {
   font-size: 28px;
 }
 
-
 .main_img {
   float: left;
-  border: 2px;
-  border-style: dashed;
   padding: 10px;
+  border: dashed;
   margin: 5px;
+  width: 24%;
 }
 
 .about_img {
   border: 2px;
-  border-style: dashed;
   padding: 10px;
   margin-left: 33%;
   margin-right: 33%;
 }
+
 .sidebar {
   float: left;
-  width: 30%;
-  margin-left: 2%;
+  width: 22.5%;
+  margin-left:1%;
+  margin-right: 1%;
 }
+
+
 .sidebar2 {
   float: left;
   width: 30%;
@@ -52,6 +58,7 @@ p.aboutme {
   width: 30%;
   margin-left: 3%;
 }
+
 .interest_head {
   text-align: center;
 
@@ -60,16 +67,19 @@ p.aboutme {
   border: 20px;
   margin: 20px;
   text-align: center;
+  float: left;
 }
 
 .container2 {
   float:left;
 
 }
+
 .other_img{
   width: 450px;
   height: 300px;
 }
+
 .ds {
   width: 100%;
   border-radius: 10%;
@@ -77,27 +87,51 @@ p.aboutme {
 
 .h3home {
   background-color: #dcd0c0;
+  margin:5px;
+  padding: 10px;
 }
+
 .phome {
   background-color: lightblue;
+  margin:5px;
+  padding: 10px;
 }
+.phome2 {
+  background-color: lightblue;
+}
+
 .projects {
+  text-align: center;
   font-weight: bold;
-  color: red;
+  color: #373737;
+}
+
+.week1 {
+  background-color: #dcd0c0;
+  color: #373737;
+  border-radius: 2%;
+  padding: 20px;
+  margin: 20px;
 }
 
 .interests {
   background-color: green;
 }
+
 .special {
   font-weight: bold;
   font-style: italic;
 }
 
+p {
+  color: #373737;
+}
+
 h1 {
-  background-color: lightgrey;
+  background-color: #dcd0c0;
   border-radius: 10%;
 }
+
 .footer1 {
   text-align: center;
 }

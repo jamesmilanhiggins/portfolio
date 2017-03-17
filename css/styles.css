@@ -8,20 +8,44 @@ body {
 
 .main_img {
   float: left;
-  height: ;
-  width: ;
+  border: 2px;
+  border-style: dashed;
+  padding: 10px;
+  margin: 30%;
+}
+
+.about_img {
   border: 2px;
   border-style: dashed;
   padding: 10px;
   margin: 5px;
 }
+.sidebar {
+  float: left;
+  width: 30%;
+  margin-left: 2%;
+}
+.sidebar2 {
+  float: left;
+  width: 30%;
+  margin-left: 3%;
+}
 
+.sidebar3 {
+  float: left;
+  width: 30%;
+  margin-left: 3%;
+}
+.interest_head {
+  text-align: center;
+
+}
 .container1 {
   margin: 20px;
   text-align: center;
 }
 .other_img{
-  width: 30%;
+  width: 200px;
   height: 200px;
 }
 

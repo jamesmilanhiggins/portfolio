@@ -11,8 +11,7 @@
 * open html file in web-browser
 
 ## Known Bugs
-At this time there are no know Bugs
-
+A few of the images do not load on gh-pages, but work on my local file.
 ## Support and Contact details
 Please email me at James.Milan.Higgins@gmail.com with any issues.
 

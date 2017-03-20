@@ -10,6 +10,8 @@
 * Clone GitHub repository
 * open html file in web-browser
 
+(Click Here)[https://jamesmilanhiggins.github.io/portfolio/]
+
 ## Known Bugs
 A few of the images do not load on gh-pages, but work on my local file.
 ## Support and Contact details
